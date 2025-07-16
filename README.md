@@ -99,7 +99,7 @@
     <div class="product-grid">
         <!-- Product 1 -->
         <div class="product-card">
-            <img class="product-image" src="https://www.google.com/imgres?q=%D8%AA%D9%88%D9%86%D8%B1%20%D8%A7%D9%88%D8%B1%D8%AF%DB%8C%D9%86%D8%B1%DB%8C&imgurl=https%3A%2F%2Fgalleryvala.com%2Fwp-content%2Fuploads%2F2023%2F11%2FIMG_6232.jpeg&imgrefurl=https%3A%2F%2Fgalleryvala.com%2Fproduct%2Fordinary-glycolic-acid-toner%2F&docid=LiLG0Z_aoPzW1M&tbnid=5zTqtvE-y0I2_M&vet=12ahUKEwiD27XusMKOAxX9S_EDHdNpKwAQM3oECAsQAA..i&w=1290&h=1290&hcb=2&ved=2ahUKEwiD27XusMKOAxX9S_EDHdNpKwAQM3oECAsQAA" alt="تونر گلیکولیک اسید 7%">
+            <img class="product-image" src="تونر_گلیکولیک_اسید_اوردینری_ORDINARY_2.webp">
             <h2 class="product-title">تونر گلیکولیک اسید 7%</h2>
             <p class="product-brand">The Ordinary</p>
             <p class="product-price">956 تومان</p>
